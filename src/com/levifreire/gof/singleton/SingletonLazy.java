@@ -1,4 +1,4 @@
-package com.levifreire.gof;
+package com.levifreire.gof.singleton;
 
 /**
  * Singleton "preguiçoso".
